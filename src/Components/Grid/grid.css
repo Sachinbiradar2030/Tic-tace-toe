@@ -1,0 +1,24 @@
+.grid-wrapper{
+  max-width: 300px;
+}
+.grid{
+   display: flex; 
+  height: 315px;
+  width: 315px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.trun-highlight{
+  color: white;
+  margin-top: 1rem;
+
+}
+.reset{
+  padding: 1rem;
+  color: white;
+  background-color: #28a7;
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  margin:1.5rem 0 1.5rem 0;
+}
